@@ -1,0 +1,2 @@
+O Codigo Imprime o Labirinto e sorteia as paredes de forma Randomica, Mostra a quantidade de posições livres e paredes, Calcula os passos de todas posições possiveis até a saida e Imprime Labirinto com todos os caminhos e o caminho minimo até a saida
+apos a insercao dos dados, sera gerado dois arquivos txt que irao mostras os caminhos do labirinto e o caminho minimo
